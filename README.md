@@ -1,6 +1,6 @@
 # k8s Fibonacci Software
 
-Using k8s to manage fibonacci piece of software and routing.
+Using k8s to manage fibonacci piece of software and connections.
 
 Inside `.k8s/` directory you will find all the .yaml files used to configure
 kubernetes. For this example I'm using cluster-ip to manage the connection
